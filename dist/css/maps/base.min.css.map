@@ -1,0 +1,1 @@
+{"version":3,"sources":["base.css"],"names":[],"mappings":"AAAA,KACE,OAAQ,EACR,QAAS,EACT,MAAO,KACP,iBAAkB","file":"../base.min.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  color: #ff6666;\n  background-color: #cc0000; }\n\n/*# sourceMappingURL=maps/base.css.map */\n"]}

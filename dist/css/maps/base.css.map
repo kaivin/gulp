@@ -1,0 +1,1 @@
+{"version":3,"file":"../base.css","sources":["base.scss"],"sourcesContent":["$basecolor:   red;\r\n\r\nbody{\r\n  margin: 0;\r\n  padding: 0;\r\n  color: lighten($basecolor, 20%);\r\n  background-color: darken($basecolor, 10%);\r\n}"],"mappings":"AAEA,AAAA,IAAI,CAAA;EACF,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;EACX,KAAK,EAAE,OAAO;EACd,gBAAgB,EAAE,OAAM,GACzB","names":[]}
